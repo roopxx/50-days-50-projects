@@ -27,10 +27,58 @@ Here's how I plan to approach this challenge:
 
 Here's the table of the 50 projects I'll be working on:
 
-| Project            | Status | Link                                                       |
-| ------------------ | ------ | ---------------------------------------------------------- |
-| 1. Expanding Cards | ✅     | [View Project](https://expanding-cards-roopxx.vercel.app/) |
-| 2. Progress Steps  | ✅     | [View Project](https://progress-steps-roopxx.vercel.app/)  |
+| Project                          | Status | Link                                                           |
+| -------------------------------- | ------ | -------------------------------------------------------------- |
+| 1. Expanding Cards               | ✅     | [View Project](https://expanding-cards-roopxx.vercel.app/)     |
+| 2. Progress Steps                | ✅     | [View Project](https://progress-steps-roopxx.vercel.app/)      |
+| 3. Rotating Navigation Animation | ✅     | [View Project](https://rotating-navigation-roopxx.vercel.app/) |
+| 4. Hidden Search Widget          |        | [View Project](#)                                              |
+| 5. Blurry Loading                |        | [View Project](#)                                              |
+| 6. Scroll Animation              |        | [View Project](#)                                              |
+| 7. Split Landing Page            |        | [View Project](#)                                              |
+| 8. Form Wave                     |        | [View Project](#)                                              |
+| 9. Sound Board                   |        | [View Project](#)                                              |
+| 10. Dad Jokes                    |        | [View Project](#)                                              |
+| 11. Event Keycodes               |        | [View Project](#)                                              |
+| 12. FAQ Collapse                 |        | [View Project](#)                                              |
+| 13. Random Choice Picker         |        | [View Project](#)                                              |
+| 14. Animated Navigation          |        | [View Project](#)                                              |
+| 15. Incrementing Counter         |        | [View Project](#)                                              |
+| 16. Drink Water                  |        | [View Project](#)                                              |
+| 17. Movie App                    |        | [View Project](#)                                              |
+| 18. Background Slider            |        | [View Project](#)                                              |
+| 19. Theme Clock                  |        | [View Project](#)                                              |
+| 20. Button Ripple Effect         |        | [View Project](#)                                              |
+| 21. Drag N Drop                  |        | [View Project](#)                                              |
+| 22. Drawing App                  |        | [View Project](#)                                              |
+| 23. Kinetic Loader               |        | [View Project](#)                                              |
+| 24. Content Placeholder          |        | [View Project](#)                                              |
+| 25. Sticky Navbar                |        | [View Project](#)                                              |
+| 26. Double Vertical Slider       |        | [View Project](#)                                              |
+| 27. Toast Notification           |        | [View Project](#)                                              |
+| 28. Github Profiles              |        | [View Project](#)                                              |
+| 29. Double Click Heart           |        | [View Project](#)                                              |
+| 30. Auto Text Effect             |        | [View Project](#)                                              |
+| 31. Password Generator           |        | [View Project](#)                                              |
+| 32. Good Cheap Fast              |        | [View Project](#)                                              |
+| 33. Notes App                    |        | [View Project](#)                                              |
+| 34. Animated Countdown           |        | [View Project](#)                                              |
+| 35. Image Carousel               |        | [View Project](#)                                              |
+| 36. Hoverboard                   |        | [View Project](#)                                              |
+| 37. Pokedex                      |        | [View Project](#)                                              |
+| 38. Mobile Tab Navigation        |        | [View Project](#)                                              |
+| 39. Password Strength Background |        | [View Project](#)                                              |
+| 40. 3D Background Boxes          |        | [View Project](#)                                              |
+| 41. Verify Account UI            |        | [View Project](#)                                              |
+| 42. Live User Filter             |        | [View Project](#)                                              |
+| 43. Feedback UI Design           |        | [View Project](#)                                              |
+| 44. Custom Range Slider          |        | [View Project](#)                                              |
+| 45. Netflix Mobile Navigation    |        | [View Project](#)                                              |
+| 46. Quiz App                     |        | [View Project](#)                                              |
+| 47. Testimonial Box Switcher     |        | [View Project](#)                                              |
+| 48. Random Image Feed            |        | [View Project](#)                                              |
+| 49. Todo List                    |        | [View Project](#)                                              |
+| 50. Insect Catch Game            |        | [View Project](#)                                              |
 
 (Note: I'll update the table, one for each day of the challenge.)
 
