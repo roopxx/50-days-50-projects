@@ -33,7 +33,7 @@ Here's the table of the 50 projects I'll be working on:
 | 2. Progress Steps                | ✅     | [View Project](https://progress-steps-d2.netlify.app/)       |
 | 3. Rotating Navigation Animation | ✅     | [View Project](https://rotating-navigation-d3.netlify.app/)  |
 | 4. Hidden Search Widget          | ✅     | [View Project](https://hidden-search-widget-d4.netlify.app/) |
-| 5. Blurry Loading                |        | [View Project](#)                                            |
+| 5. Blurry Loading                | ✅     | [View Project](https://blurry-loading-d5.netlify.app/)       |
 | 6. Scroll Animation              |        | [View Project](#)                                            |
 | 7. Split Landing Page            |        | [View Project](#)                                            |
 | 8. Form Wave                     |        | [View Project](#)                                            |
