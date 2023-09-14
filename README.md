@@ -36,7 +36,7 @@ Here's the table of the 50 projects I'll be working on:
 | 5. Blurry Loading                | ✅     | [View Project](https://blurry-loading-d5.netlify.app/)       |
 | 6. Scroll Animation              | ✅     | [View Project](https://scrolling-navigation-d6.netlify.app/) |
 | 7. Split Landing Page            | ✅     | [View Project](https://split-landing-page-d7.netlify.app/)   |
-| 8. Form Wave                     |        | [View Project](#)                                            |
+| 8. Form Wave                     | ✅     | [View Project](https://form-wave-animation-d8.netlify.app/)  |
 | 9. Sound Board                   |        | [View Project](#)                                            |
 | 10. Dad Jokes                    |        | [View Project](#)                                            |
 | 11. Event Keycodes               |        | [View Project](#)                                            |
